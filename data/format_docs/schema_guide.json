@@ -1,0 +1,27 @@
+{
+  "assessment_task": {
+    "id": "unique string ID",
+    "type": "reading | dictation | rapid_naming | phoneme_identification | irregular_word",
+    "instruction": "string (what child sees or hears)",
+    "ttsText": "optional string (for dictation tasks)",
+    "expected": "string (target text for accuracy)",
+    "category": "phonological | surface | rapid_naming | dictation"
+  },
+  "microdrill_template": {
+    "confusion": "b/d | p/q | vowel_confusion | ...",
+    "type": "minimal_pairs | vowel_focus | letter_orientation",
+    "instruction": "string (user instruction)",
+    "pairs": "array of objects containing minimal pairs or audio cues",
+    "ttsHelp": "boolean (if TTS assistance required)",
+    "maxAttempts": "integer (retry limit)"
+  },
+  "exercise_item": {
+    "text": "string",
+    "phonemes": "string (IPA or ARPABET)",
+    "aid": {
+      "phonemeColoring": "boolean",
+      "syllableBreak": "boolean"
+    },
+    "expected": "string (correct reading/spelling)"
+  }
+}

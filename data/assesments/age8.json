@@ -1,0 +1,78 @@
+{
+  "age": 8,
+  "assessmentType": "initial",
+  "tasks": [
+    {
+      "id": "task1",
+      "type": "phoneme_segmentation",
+      "instruction": "Say the individual sounds you hear in the word 'lamp'.",
+      "expected": "l a m p",
+      "category": "phonological"
+    },
+    {
+      "id": "task2",
+      "type": "blended_word",
+      "instruction": "Blend these sounds together to say the word: /s/ /t/ /o/ /p/",
+      "expected": "stop",
+      "category": "phonological"
+    },
+    {
+      "id": "task3",
+      "type": "non_word_reading",
+      "instruction": "Read this non-word aloud: flimp",
+      "expected": "flimp",
+      "category": "reading"
+    },
+    {
+      "id": "task4",
+      "type": "sight_word_reading",
+      "instruction": "Read this word aloud quickly: people",
+      "expected": "people",
+      "category": "reading"
+    },
+    {
+      "id": "task5",
+      "type": "sentence_reading",
+      "instruction": "Read this sentence aloud: The little dog ran quickly to the park.",
+      "expected": "The little dog ran quickly to the park.",
+      "category": "reading"
+    },
+    {
+      "id": "task6",
+      "type": "dictation",
+      "instruction": "Listen carefully and type the word you hear.",
+      "ttsText": "chief",
+      "expected": "chief",
+      "category": "dictation"
+    },
+    {
+      "id": "task7",
+      "type": "sentence_dictation",
+      "instruction": "Listen carefully and type the sentence you hear.",
+      "ttsText": "We went to the beach yesterday.",
+      "expected": "We went to the beach yesterday.",
+      "category": "dictation"
+    },
+    {
+      "id": "task8",
+      "type": "rapid_naming_objects",
+      "instruction": "Name these common objects as fast as you can: car, house, star, tree, ball",
+      "expected": "car house star tree ball",
+      "category": "rapid_naming"
+    },
+    {
+      "id": "task9",
+      "type": "rapid_naming_letters",
+      "instruction": "Name these letters as fast as you can: P, G, B, T, K",
+      "expected": "P G B T K",
+      "category": "rapid_naming"
+    },
+    {
+      "id": "task10",
+      "type": "simple_comprehension",
+      "instruction": "Read the following and answer the question: 'Tom found a lost kitten in his garden. It was small and gray.' Question: Where did Tom find the kitten?",
+      "expected": "in his garden",
+      "category": "comprehension"
+    }
+  ]
+}

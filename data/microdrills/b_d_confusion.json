@@ -1,0 +1,29 @@
+{
+  "confusion": "b/d",
+  "type": "minimal_pairs",
+  "instruction": "Listen to the two words and say or type the correct one.",
+  "pairs": [
+    { "word1": "but", "word2": "dut" },
+    { "word1": "bin", "word2": "din" },
+    { "word1": "back", "word2": "dack" },
+    { "word1": "bed", "word2": "ded" },
+    { "word1": "boat", "word2": "dote" },
+    { "word1": "bake", "word2": "dake" },
+    { "word1": "bell", "word2": "dell" },
+    { "word1": "bame", "word2": "dame" },
+    { "word1": "rib", "word2": "rid" },
+    { "word1": "cab", "word2": "cad" },
+    { "word1": "tub", "word2": "tud" },
+    { "word1": "cub", "word2": "cud" },
+    { "word1": "sob", "word2": "sod" },
+    { "word1": "bab", "word2": "dad" },
+    { "word1": "ban", "word2": "dan" },
+    { "word1": "bolt", "word2": "dolt" },
+    { "word1": "bear", "word2": "dare" },
+    { "word1": "bit", "word2": "dit" },
+    { "word1": "rob", "word2": "rod" },
+    { "word1": "gab", "word2": "gad" }
+  ],
+  "ttsHelp": true,
+  "maxAttempts": 3
+}

@@ -1,0 +1,127 @@
+{
+  "mode": "read_aloud",
+  "focus": "phonological",
+  "ageRange": [8, 10],
+  "items": [
+    {
+      "text": "run",
+      "phonemes": "r ʌ n",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "run"
+    },
+    {
+      "text": "cat",
+      "phonemes": "k æ t",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "cat"
+    },
+    {
+      "text": "sun",
+      "phonemes": "s ʌ n",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "sun"
+    },
+    {
+      "text": "pen",
+      "phonemes": "p ɛ n",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "pen"
+    },
+    {
+      "text": "jet",
+      "phonemes": "dʒ ɛ t",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "jet"
+    },
+    {
+      "text": "lid",
+      "phonemes": "l ɪ d",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "lid"
+    },
+    {
+      "text": "mud",
+      "phonemes": "m ʌ d",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "mud"
+    },
+    {
+      "text": "hop",
+      "phonemes": "h ɑ p",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "hop"
+    },
+    {
+      "text": "six",
+      "phonemes": "s ɪ k s",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "six"
+    },
+    {
+      "text": "fox",
+      "phonemes": "f ɑ k s",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "fox"
+    },
+    {
+      "text": "web",
+      "phonemes": "w ɛ b",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "web"
+    },
+    {
+      "text": "tap",
+      "phonemes": "t æ p",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "tap"
+    },
+    {
+      "text": "fin",
+      "phonemes": "f ɪ n",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "fin"
+    },
+    {
+      "text": "red",
+      "phonemes": "r ɛ d",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "red"
+    },
+    {
+      "text": "cup",
+      "phonemes": "k ʌ p",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "cup"
+    },
+    {
+      "text": "fan",
+      "phonemes": "f æ n",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "fan"
+    },
+    {
+      "text": "log",
+      "phonemes": "l ɑ g",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "log"
+    },
+    {
+      "text": "pig",
+      "phonemes": "p ɪ g",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "pig"
+    },
+    {
+      "text": "ten",
+      "phonemes": "t ɛ n",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "ten"
+    },
+    {
+      "text": "box",
+      "phonemes": "b ɑ k s",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "box"
+    }
+  ]
+}

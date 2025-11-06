@@ -1,0 +1,127 @@
+{
+  "mode": "read_aloud",
+  "focus": "surface",
+  "ageRange": [10, 12],
+  "items": [
+    {
+      "text": "island",
+      "phonemes": "aɪ l ə n d",
+      "aid": { "phonemeColoring": true, "syllableBreak": true },
+      "expected": "island"
+    },
+    {
+      "text": "schedule",
+      "phonemes": "s k ɛ dʒ uː l",
+      "aid": { "phonemeColoring": true, "syllableBreak": true },
+      "expected": "schedule"
+    },
+    {
+      "text": "choir",
+      "phonemes": "k w aɪər",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "choir"
+    },
+    {
+      "text": "debt",
+      "phonemes": "d ɛ t",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "debt"
+    },
+    {
+      "text": "through",
+      "phonemes": "θ r uː",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "through"
+    },
+    {
+      "text": "foreign",
+      "phonemes": "f ɒ r ɪ n",
+      "aid": { "phonemeColoring": true, "syllableBreak": true },
+      "expected": "foreign"
+    },
+    {
+      "text": "receipt",
+      "phonemes": "r ɪ s iː t",
+      "aid": { "phonemeColoring": true, "syllableBreak": true },
+      "expected": "receipt"
+    },
+    {
+      "text": "bureau",
+      "phonemes": "b j ʊə r oʊ",
+      "aid": { "phonemeColoring": true, "syllableBreak": true },
+      "expected": "bureau"
+    },
+    {
+      "text": "gauge",
+      "phonemes": "g eɪ dʒ",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "gauge"
+    },
+    {
+      "text": "dough",
+      "phonemes": "d oʊ",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "dough"
+    },
+    {
+      "text": "sword",
+      "phonemes": "s ɔː r d",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "sword"
+    },
+    {
+      "text": "pneumonia",
+      "phonemes": "n uː m oʊ n i ə",
+      "aid": { "phonemeColoring": true, "syllableBreak": true },
+      "expected": "pneumonia"
+    },
+    {
+      "text": "mortgage",
+      "phonemes": "m ɔː r g ɪ dʒ",
+      "aid": { "phonemeColoring": true, "syllableBreak": true },
+      "expected": "mortgage"
+    },
+    {
+      "text": "straight",
+      "phonemes": "s t r eɪ t",
+      "aid": { "phonemeColoring": true, "syllableBreak": false },
+      "expected": "straight"
+    },
+    {
+      "text": "answer",
+      "phonemes": "æ n s ə r",
+      "aid": { "phonemeColoring": true, "syllableBreak": true },
+      "expected": "answer"
+    },
+    {
+      "text": "khaki",
+      "phonemes": "k æ k iː",
+      "aid": { "phonemeColoring": true, "syllableBreak": true },
+      "expected": "khaki"
+    },
+    {
+      "text": "subtle",
+      "phonemes": "s ʌ t ə l",
+      "aid": { "phonemeColoring": true, "syllableBreak": true },
+      "expected": "subtle"
+    },
+    {
+      "text": "rendezvous",
+      "phonemes": "r ɒ n d eɪ v uː",
+      "aid": { "phonemeColoring": true, "syllableBreak": true },
+      "expected": "rendezvous"
+    },
+    {
+      "text": "indict",
+      "phonemes": "ɪ n d aɪ t",
+      "aid": { "phonemeColoring": true, "syllableBreak": true },
+      "expected": "indict"
+    },
+    {
+      "text": "business",
+      "phonemes": "b ɪ z n ə s",
+      "aid": { "phonemeColoring": true, "syllableBreak": true },
+      "expected": "business"
+    }
+  ]
+}
